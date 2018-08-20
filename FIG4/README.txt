@@ -1,3 +1,3 @@
-# START README FIG5
+# START README FIG4
 This code uses data in the folder `experiment_sa`
-# END README FIG5
+# END README FIG4
