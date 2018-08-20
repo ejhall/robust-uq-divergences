@@ -1,0 +1,9 @@
+position 1 corresponds to s = 0.0050 and nv = 0.0050
+position 4 corresponds to s = 0.0050 and nv = 0.0450
+position 7 corresponds to s = 0.0050 and nv = 0.0850
+position 2 corresponds to s = 0.0450 and nv = 0.0050
+position 5 corresponds to s = 0.0450 and nv = 0.0450
+position 8 corresponds to s = 0.0450 and nv = 0.0850
+position 3 corresponds to s = 0.0850 and nv = 0.0050
+position 6 corresponds to s = 0.0850 and nv = 0.0450
+position 9 corresponds to s = 0.0850 and nv = 0.0850
